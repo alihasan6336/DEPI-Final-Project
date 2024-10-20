@@ -1,3 +1,24 @@
+/* src/index.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Custom Styles */
+.profile-container {
+  background-color: #5C03BC; /* Profile background */
+  color: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
+
+.profile-info {
+  margin-bottom: 2rem;
+}
+
+.profile-actions button {
+  background-color: #350571;
+}
+
+.profile-actions button:hover {
+  background-color: #4F04A3;
+}
