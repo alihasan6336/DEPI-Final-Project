@@ -12,14 +12,6 @@
     font-family: 'Poppins', sans-serif;
 }
 
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: #f4f4f4;
-}
-
 .wrapper {
     position: relative;
     width: 100vw;
